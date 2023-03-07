@@ -1,0 +1,23 @@
+{
+  "name": "com.witchdevelopment.easyobjectpool",
+  "version": "1.0.0",
+  "displayName": "Easy Object Pool",
+  "description": "Easy Object Pool (EOP) is a Unity package that simplifies the creation and management of object pools. With EOP, you can easily instantiate multiple objects of the same type and quickly retrieve them as needed.",
+  "unity": "2021.3",
+  "keywords": [
+    "object-pool",
+    "pool"
+  ],
+  "author": {
+    "name": "Witch Dev",
+    "email": "thewitch@witchdev.com"
+  },
+  "unityRelease": "1f1",
+  "samples":[
+    {
+      "displayName": "Easy object pool manager",
+      "description": "Contains the gameobject to be used in the hierarchy",
+      "path": "Samples~/EasyObjectPoolManager"
+    }
+  ]
+}
