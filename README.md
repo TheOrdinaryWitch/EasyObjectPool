@@ -19,7 +19,7 @@ To create a new object pool using EOP, follow these steps:
 
    - `ID`: An integer value used to identify this object pool.
    - `Name`: A string value used to provide a human-readable name for this object pool.
-   - `Object Prefab`: The prefab that will be instantiated to create objects in this pool.
+   - `Object Prefab`: The prefab that will be instantiated to create objects in this pool (The object/prefab has to be disabled to work).
    - `Total Objects`: The number of objects to create when the object pool is initialized.
 
 3. To retrieve an object from the pool, call the `GetPooledObject` method on the `EasyObjectPool.SharedInstance` object, passing the `ID` of the desired pool as an argument:
