@@ -1,3 +1,4 @@
+![EOP](https://imgur.com/1e8rcGw.png)
 # Easy Object Pool for Unity
 
 Easy Object Pool (EOP) is a Unity package that simplifies the creation and management of object pools. With EOP, you can easily instantiate multiple objects of the same type and quickly retrieve them as needed.
