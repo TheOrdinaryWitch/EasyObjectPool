@@ -7,7 +7,7 @@ Easy Object Pool (EOP) is a Unity package that simplifies the creation and manag
 
 To use EOP in your Unity project, follow these steps:
 
-1. Copy the HTTPS link of the repo.
+1. Copy the HTTPS link of the repo `https://github.com/TheOrdinaryWitch/EasyObjectPool.git`.
 2. Import the package into your Unity project by selecting Window -> Package Manager -> add package from giturl.
 3. Download the sample of the package named "Easy Object Pool manager" on the same window.
 ## Usage
